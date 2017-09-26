@@ -85,7 +85,7 @@
     "standard": "^10.0.2",
     "tap": "^10.7.0",
     "then-sleep": "^1.0.1",
-    "typescript": "^2.5.2",
+    "typescript": "^2.5.3",
     "x-xss-protection": "^1.0.0"
   },
   "dependencies": {
